@@ -11,5 +11,6 @@ This app has invalid HTML in `index.html`. Use [w3's html validator](http://vali
 1. Repeat until all errors are gone.
 
 ## Server
+If you'd like to see this file from a server instead, clone this repository and then `cd` into this directory. It's not nessecary to complete this exercise.
 1. Run `http-server -c-1 -o` to start a server
 1. Visit http://localhost:8080 to see the index page
